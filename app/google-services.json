@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "948379441279",
+    "firebase_url": "https://kairos-c7471-default-rtdb.firebaseio.com",
+    "project_id": "kairos-c7471",
+    "storage_bucket": "kairos-c7471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948379441279:android:afa6f0e1a7d2aab624074a",
+        "android_client_info": {
+          "package_name": "com.example.advancedrealtimedatabasefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948379441279-c1heemjmnklm36i9ubnirpjhma124c7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0-IljcU7ayugUf_VyWXDCm6jnRimkZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948379441279-c1heemjmnklm36i9ubnirpjhma124c7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948379441279:android:e65b709e3339384324074a",
+        "android_client_info": {
+          "package_name": "com.example.baiktra2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948379441279-c1heemjmnklm36i9ubnirpjhma124c7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0-IljcU7ayugUf_VyWXDCm6jnRimkZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948379441279-c1heemjmnklm36i9ubnirpjhma124c7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
